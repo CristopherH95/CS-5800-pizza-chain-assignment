@@ -27,7 +27,7 @@ public class Pizza {
     public void eat() {
         System.out.printf(
             "Chain: %s, Size: %s, Toppings: %s%n",
-            chain,
+            chain.getLabel(),
             size.getLabel(),
             getPrintableToppings()
         );

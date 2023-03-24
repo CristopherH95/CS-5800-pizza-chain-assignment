@@ -28,7 +28,7 @@ public class PizzaBuilder {
         return this;
     }
 
-    public Pizza make() {
+    public Pizza build() {
         return new Pizza(
             chain,
             size,
