@@ -21,5 +21,5 @@ Alternatively, IDEs such as IntelliJ should be able to build the source files us
 Once built, the project can be run using the `driver` package:
 
 ```shell
-java -cp ./target/pizza-chain-1.0-SNAPSHOT.jar driver.Main
+java -cp ./target/pizza-chain-assignment-1.0-SNAPSHOT.jar driver.Main
 ```
